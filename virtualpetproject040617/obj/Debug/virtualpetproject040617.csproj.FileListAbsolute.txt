@@ -1,0 +1,6 @@
+c:\users\kalynn denton\documents\visual studio 2015\Projects\virtualpetproject040617\virtualpetproject040617\bin\Debug\virtualpetproject040617.exe.config
+c:\users\kalynn denton\documents\visual studio 2015\Projects\virtualpetproject040617\virtualpetproject040617\obj\Debug\virtualpetproject040617.csprojResolveAssemblyReference.cache
+c:\users\kalynn denton\documents\visual studio 2015\Projects\virtualpetproject040617\virtualpetproject040617\bin\Debug\virtualpetproject040617.exe
+c:\users\kalynn denton\documents\visual studio 2015\Projects\virtualpetproject040617\virtualpetproject040617\bin\Debug\virtualpetproject040617.pdb
+c:\users\kalynn denton\documents\visual studio 2015\Projects\virtualpetproject040617\virtualpetproject040617\obj\Debug\virtualpetproject040617.exe
+c:\users\kalynn denton\documents\visual studio 2015\Projects\virtualpetproject040617\virtualpetproject040617\obj\Debug\virtualpetproject040617.pdb
